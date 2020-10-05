@@ -1,3 +1,3 @@
 # gotour-exercise
-exercises in https://tour.go-zh.org/
+exercises in https://tour.go-zh.org/  
 Go语言之旅中的练习，持续更新中……
